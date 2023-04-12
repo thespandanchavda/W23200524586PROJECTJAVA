@@ -1,0 +1,3 @@
+## ASSIGNMENT 2 JAVA![UML CLASS](https://user-images.githubusercontent.com/113393534/231609038-018f2280-4f71-442c-9b25-2ffd9009f2f8.png)
+
+# W23200524586PROJECTJAVA
