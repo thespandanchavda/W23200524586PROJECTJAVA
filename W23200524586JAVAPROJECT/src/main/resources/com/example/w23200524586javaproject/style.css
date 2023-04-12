@@ -1,0 +1,7 @@
+.root{
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+}
+AnchorPane{
+    -fx-background-image: url('Images/Background.png');
+}
